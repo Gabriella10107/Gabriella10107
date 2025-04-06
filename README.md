@@ -72,9 +72,9 @@
 
 ###
 
-[<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd253YnZ5Mmh0Nm1idHY4Y3k5ejZldHFvZmE2MmhrMndlOXJmYzg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif"  />
-</div>]
+<div align="center">
+  <img height="200" src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd253YnZ5Mmh0Nm1idHY4Y3k5ejZldHFvZmE2MmhrMndlOXJmYzg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" />
+</div>
 
 ###
 
